@@ -15,14 +15,14 @@ We ask that new members & first-time Hack Night attendees fill out our [CfM Orie
 Slack is a popular messaging app, and CfM has a "channel" on slack that we use to distribute some information and updates from our projects. Here are the instructions for signing up:
 
 1. Go to [Mke-slack.herokuapp.com](Mke-slack.herokuapp.com) and enter your email
-  - This is a URL you will use only once, just to sign up the first time.
+    - This is a URL you will use only once, just to sign up the first time.
 2. Open the link in your email and sign in to [Milwaukee.slack.com](Milwaukee.slack.com). 
-  - This is the URL you will use to visit the slack channel from now on.
+    - This is the URL you will use to visit the slack channel from now on.
 3. Join the `#code-for-milwaukee` channel 
-  - All the CfM discussions happen here.
-  - Check out the other channels for other interesting events in Milwaukee!
+    - All the CfM discussions happen here.
+    - Check out the other channels for other interesting events in Milwaukee!
 
 FAQ about slack:
-- _"Can I participate in CfM without joining Slack?"_ Yes!
-- _"I'm having problems joining"_ Please talk to one of the CfM Core Team members, or email `info@CodeForMilwaukee.org`
-- _"Where can I learn more about Slack?"_ Check out this [Slack guide](https://docs.google.com/document/d/15njQ9nd_K0MTcqeXOz8WDrZ3WcnIWC2Wh55hLNVafxc/edit?pli=1#heading=h.a9pt06xiouuj)
+- _"Can I participate in CfM without joining Slack?"_ ... Yes!
+- _"I'm having problems joining"_ ... Please talk to one of the CfM Core Team members, or email `info@CodeForMilwaukee.org`
+- _"Where can I learn more about Slack?"_ ... Check out this [Slack guide](https://docs.google.com/document/d/15njQ9nd_K0MTcqeXOz8WDrZ3WcnIWC2Wh55hLNVafxc/edit?pli=1#heading=h.a9pt06xiouuj)
