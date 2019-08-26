@@ -4,7 +4,7 @@ This page serves as an orientation guide for people who are new to Code for Milw
 
 ## Link to orientation slides
 
-Here's a [link to our Orientation slides](https://docs.google.com/presentation/d/1zhh6Pjm6opz5JMhDUb0Jad3gCHQ08OyJ6L2yZR30tHE/edit#slide=id.p) **TODO: FIX BROKEN LINK**
+Here's a [link to our Orientation slides](https://docs.google.com/presentation/d/1hwN9_HZ6jsnifv9BGSwOY2iXBW2XKXNKftGBz3Vzx3Y/edit?usp=sharing) 
 
 ## Link to Orientation Form
 
